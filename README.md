@@ -2,7 +2,7 @@
 
 ## First: install node js
 ```
-See [Configuration Reference](https://nodejs.org/en/).
+See https://nodejs.org/en/.
 ```
 
 ### Second: install express server to project folder with
